@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Simple Roleplay": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Tim\\Desktop\\!autistic Roleplay\\Server\\altv-server.exe",
+      "workingDirectory": "C:\\Users\\Tim\\Desktop\\!autistic Roleplay\\Server"
+    }
+  }
+}

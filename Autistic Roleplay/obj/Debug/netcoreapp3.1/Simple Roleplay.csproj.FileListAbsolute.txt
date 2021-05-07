@@ -1,0 +1,26 @@
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\mongocrypt.dll
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.deps.json
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.runtimeconfig.json
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.runtimeconfig.dev.json
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.dll
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.pdb
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.csprojAssemblyReference.cache
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.AssemblyInfo.cs
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\roleplay.dll
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\roleplay.pdb
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.genruntimeconfig.cache
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.csproj.CoreCompileInputs.cache
+G:\Downloads\simple-roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.csprojAssemblyReference.cache
+G:\Downloads\simple-roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.AssemblyInfoInputs.cache
+G:\Downloads\simple-roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.AssemblyInfo.cs
+G:\Downloads\simple-roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.csproj.CoreCompileInputs.cache
+G:\Downloads\simple-roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\roleplay.dll
+G:\Downloads\simple-roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\roleplay.pdb
+G:\Downloads\simple-roleplay\Build\netcoreapp3.1\mongocrypt.dll
+G:\Downloads\simple-roleplay\Build\netcoreapp3.1\roleplay.deps.json
+G:\Downloads\simple-roleplay\Build\netcoreapp3.1\roleplay.runtimeconfig.json
+G:\Downloads\simple-roleplay\Build\netcoreapp3.1\roleplay.runtimeconfig.dev.json
+G:\Downloads\simple-roleplay\Build\netcoreapp3.1\roleplay.dll
+G:\Downloads\simple-roleplay\Build\netcoreapp3.1\roleplay.pdb
+G:\Downloads\simple-roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Simple Roleplay.genruntimeconfig.cache

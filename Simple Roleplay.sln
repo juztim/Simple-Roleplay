@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Roleplay", "Autistic Roleplay\Simple Roleplay.csproj", "{D505994C-CD07-459C-818E-CE12C8E9B97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D505994C-CD07-459C-818E-CE12C8E9B97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D505994C-CD07-459C-818E-CE12C8E9B97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D505994C-CD07-459C-818E-CE12C8E9B97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D505994C-CD07-459C-818E-CE12C8E9B97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F8A103-C6B9-4667-8733-F8F711E2E569}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\bin\Debug\netcoreapp3.1\Autistic Roleplay.deps.json
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\bin\Debug\netcoreapp3.1\Autistic Roleplay.dll
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Autistic Roleplay.csprojAssemblyReference.cache
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Autistic Roleplay.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Autistic Roleplay.AssemblyInfo.cs
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.deps.json
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.dll
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.pdb
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\roleplay.dll
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\roleplay.pdb
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.runtimeconfig.json
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\roleplay.runtimeconfig.dev.json
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Autistic Roleplay.genruntimeconfig.cache
+C:\Users\Tim\Desktop\!autistic Roleplay\Server\resources\roleplay\netcoreapp3.1\mongocrypt.dll
+C:\Users\Tim\Desktop\!autistic Roleplay\Autistic Roleplay\Autistic Roleplay\obj\Debug\netcoreapp3.1\Autistic Roleplay.csproj.CoreCompileInputs.cache
