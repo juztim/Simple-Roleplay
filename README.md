@@ -45,6 +45,8 @@ It has stuff such as
 - Heist System
 - Phone
 - Banking System
+- Discord Bot ready to set up
+- Discord Logs via Webhook
 and much more 
 
 ### 📝 Licensing
