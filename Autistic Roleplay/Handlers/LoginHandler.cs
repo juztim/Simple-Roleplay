@@ -189,10 +189,13 @@ namespace Simple_Roleplay.Handlers
             };
             Console.WriteLine("190");
             var charList = Main.database.CharacterCollection.AsQueryable().ToList();
-            var nextPlayerId = charList.Last().playerId +1;
+            int nextPlayerId;
+            if (charList.Count == 0) nextPlayerId = charList.Last().playerId + 1;
+            else nextPlayerId = 1;
 
 
-            bool numberNotExisting = false;
+
+                bool numberNotExisting = false;
             int nummer = 0;
             Console.WriteLine("197");
             do
