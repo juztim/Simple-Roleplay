@@ -190,8 +190,8 @@ namespace Simple_Roleplay.Handlers
             Console.WriteLine("190");
             var charList = Main.database.CharacterCollection.AsQueryable().ToList();
             int nextPlayerId;
-            if (charList.Count == 0) nextPlayerId = charList.Last().playerId + 1;
-            else nextPlayerId = 1;
+            if (charList.Count == 0) nextPlayerId = 1;
+            else nextPlayerId = charList.Last().playerId + 1;
 
 
 
