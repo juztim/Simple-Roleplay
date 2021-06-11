@@ -9,7 +9,7 @@ I didn't publish this repository for anyone to just clone it and start it up. Ev
 For anyone actually interested in setting this up I currently provide limited support, preferably on Discord. 
 
 ```bash
-Discord: (JuzTim#0001)
+Discord: (JuzTim#5520)
 Twitter: @TimWuestenhagen
 ```
 
